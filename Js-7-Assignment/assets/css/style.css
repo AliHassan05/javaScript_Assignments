@@ -1,0 +1,12 @@
+body {
+    padding: 0px;
+    color: white;
+    box-sizing: border-box;
+    background-color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
